@@ -6,7 +6,8 @@
 * [Setup](#setup)
 
 ## General info
-This project is simple Live Watch.
+* This project is simple Live Watch.
+* It will import the live time from the server and shows us the live time of a location.
 	
 ## Technologies
 Project is created with:
